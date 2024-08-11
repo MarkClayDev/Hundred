@@ -95,7 +95,7 @@ const wordDescriptionPairs = [
         { word: "Empathetic", description: "" },
         { word: "Adaptable", description: "Adjusts to changes easily." },
         { word: "Soft", description: "Soft ang bebe ko eh :(((( sa mata lang ng ibang tao lang siya nag mumukhng hard eh. Ako hard po sakanya hehe labyuuuuuuuuuu" },
-        { word: "Quick", description: "Quick sa ano basta HAHAHAHAHAHAHAHAA I love youuuuuuuuuuuuu" },
+        { word: "Quick", description: "Quick sa ano basta HAHAHAHAHAHAHAHAA I love youuuuuuuuuuuuu pang 99 na to so bali pag nov 18 na. I`ll be in Bayambang sa 19 so bali pag binabasa mo na yung 100th message papunta nako sa bayambang non! I love youuuuuuuuu" },
 
 
     ];
