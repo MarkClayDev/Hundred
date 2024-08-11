@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.container h1{
+
+        font-family: 'Sirukota', sans-serif;
+    }
+
+
+.hidden {
+    display: none;
+}
+
+#special-message {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #007BFF;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#timer {
+    margin-top: 20px;
+    font-size: 1em;
+    color: #333;
+}
