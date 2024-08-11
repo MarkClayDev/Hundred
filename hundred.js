@@ -87,14 +87,17 @@ const wordDescriptionPairs = [
         { word: "Resilient", description: "Recovers quickly from challenges." },
         { word: "Persistent", description: "Continues efforts despite obstacles." },
         { word: "Self-aware", description: "Understands her own emotions and traits." },
-        { word: "Innovative", description: "Creates new ideas or methods." },
         { word: "Charismatic", description: "Attractive and influential personality." },
         { word: "Genuine", description: "Authentic and true." },
         { word: "Loyal", description: "" },
         { word: "Trustworthy", description: "Deserving of trust." },
         { word: "Resourceful", description: "" },
         { word: "Empathetic", description: "" },
-        { word: "Adaptable", description: "Adjusts to changes easily." }
+        { word: "Adaptable", description: "Adjusts to changes easily." },
+        { word: "Soft", description: "Soft ang bebe ko eh :(((( sa mata lang ng ibang tao lang siya nag mumukhng hard eh. Ako hard po sakanya hehe labyuuuuuuuuuu" },
+        { word: "Quick", description: "Quick sa ano basta HAHAHAHAHAHAHAHAA I love youuuuuuuuuuuuu" },
+
+
     ];
     
 
