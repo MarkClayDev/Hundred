@@ -24,7 +24,7 @@ const wordDescriptionPairs = [
         { word: "Genuine", description: "Authentic in her actions and words. Ayan na mismo jusko mag lalagay ako ng mga words dito na walang descriptions. Tas try nating ifigure out bakit. Kahit alam ko na yung sagot dun sa word na yun okaaaaaay?" },
         { word: "Persistent", description: "Continues efforts despite obstacles. We may experience yung mga challenges / walls ng buhay pero I am confident na malalagpasan natin to dahil mag kasama tayong dalawa. Hindi na one way relationship to. Ang one way lang naman na matatawag ko din is magkasama tayong dalawa sa path na yun." },
         { word: "Empathetic", description: "Understands and shares the feelings of others. Pero minsan inaasar mo muna jusko ka" },
-        { word: "Loyal", description: "" },
+        { word: "Loyal", description: "Loyalty ang isa pillar ng isang relationship as We progress dito sa relationship na to, We know na there will be times na our loyalty will be tested and alam ko na malalagpasan natin to.  Thank youuuuuuuuuuuuuuuuu! mwaaaaa" },
         { word: "Charismatic", description: "Attracts and influences others with charm." },
         { word: "Thoughtful", description: "Considers others’ needs and feelings." },
         { word: "Motivated", description: "" },
