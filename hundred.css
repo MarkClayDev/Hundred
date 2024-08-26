@@ -29,6 +29,18 @@ body {
     background-color: #cc0000;
 }
 
+#counter {
+    font-size: 2em;
+    color: #333;
+    position: absolute;
+    top: 10px; /* Distance from the top */
+    right: 10px; /* Distance from the right */
+    background-color: #fff; /* Optional: background color for better readability */
+    padding: 5px; /* Optional: padding around the text */
+    border-radius: 5px; /* Optional: rounded corners */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional: shadow for a bit of depth */
+}
+
 .container {
     text-align: center;
     padding: 20px;
