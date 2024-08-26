@@ -172,3 +172,8 @@ window.onload = function() {
     updateTimer();
     setInterval(updateTimer, 1000); // Update timer every second
 };
+
+document.getElementById('badFeelingsButton').addEventListener('click', function() {
+    window.open("feelbad.html");
+});
+
