@@ -135,10 +135,12 @@ function updateContent() {
     const wordElement = document.getElementById('word');
     const descriptionElement = document.getElementById('description');
     const specialMessageElement = document.getElementById('special-message');
+    const dayCountElement = document.getElementById('day-count');
     
     wordElement.textContent = "";
     descriptionElement.textContent = "";
-    
+    dayCountElement.textContent = dayCount; // Update the day counter
+
     typeText(wordElement, word);
     setTimeout(() => typeText(descriptionElement, description), word.length * 50);
 
@@ -151,6 +153,7 @@ function updateContent() {
         specialMessageElement.classList.remove('hidden');
     }
 }
+
 
 // Function to update the countdown timer
 function updateTimer() {
