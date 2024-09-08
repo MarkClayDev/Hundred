@@ -30,7 +30,7 @@ const wordDescriptionPairs = [
         { word: "Patient", description: "Remains calm and composed. Sana maging patient ka din sa ugali koooooooooooooooooooo makulit ako eh lalo na pag may problem eh hehe I love youuuuuuuuu" },
         { word: "Reliable", description: "Consistently dependable in actions and promises. Pinang hahawakan ko yung sinabi mo sakin na worth it lahat to. Ayan ang pinaka assurance na hinahawakan ko galing sayo. It will be worth it Love! I love youuuuuuuu! Worth lahat ng mga memories natin lahat ng mga ginawa natin together" },
         { word: "Insightful", description: "Provides deep understanding of situations." },
-        { word: "Diligent", description: "" },
+        { word: "Wild", description: "Pagiging wild mo isa din sa nagbibigay ng spice sa relationship na to and thank you din for being yourself Mahal! I love youuuuuuuuuuuuuuuu! Basta tandaan mo yung time na dinidilaan kita sa legs pa baba habang gigil yung kamay ko sa boobs mo hihi I love youuuuuuuuuuuuuuuuuuuu" },
         { word: "Assertive", description: "Confidently expresses her needs and opinions." },
         { word: "Driven", description: "Highly motivated to achieve your personal goals." },
         { word: "Understanding", description: "Comprehends and respects different viewpoints." },
