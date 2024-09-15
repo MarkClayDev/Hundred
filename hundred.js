@@ -35,7 +35,7 @@ const wordDescriptionPairs = [
         { word: "Driven", description: "Highly motivated to achieve your personal goals." },
         { word: "Understanding", description: "Comprehends and respects different viewpoints." },
         { word: "Adaptable", description: "Adjusts easily to new conditions." },
-        { word: "Supportive", description: "" },
+        { word: "Supportive", description: "Grabe yung support na pinaparamdam mo at pinapakita mo sakin. hindi lang sakin pati sa mga kaibigan at lalo na sa family mo. I love youuuuuuuu!" },
         { word: "Energetic", description: "inerji inerji gaaaaaaaaaaaaaaaaaap! I love you ajiiiiiiiiih! Worth it yung puyat kong to. May iloolook forward ka araw araw tas blanko yung iba no? HHAHAHAHAHAHAHA" },
         { word: "Positive", description: "" },
         { word: "Resourceful", description: "Finds quick and clever solutions." },
