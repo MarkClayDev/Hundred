@@ -44,7 +44,7 @@ const wordDescriptionPairs = [
         { word: "Generous", description: "Willing to give and share." },
         { word: "Considerate", description: "Thoughtfully attentive to others." },
         { word: "Principled", description: "" },
-        { word: "Passionate", description: "Exhibits strong emotions for her interests." },
+        { word: "Passionate", description: "Pag dating sa career. nakikita ko lagi na sobrang excited ka sa mga medical related na topics. And sobrang natutuwa ako pag minsan nag kkwento ka about sa mga pinag aralan niyo tas minsan hindi ko na siya naiintindihan pero natutuwa ako sa reaction mo. I love youuuu!!" },
         { word: "Reflective", description: "Thoughtfully considers her experiences and actions." },
         { word: "Trustworthy", description: "" },
         { word: "Kind-hearted", description: "Naturally caring and gentle. A caring partner that has a gentle heart when it comes sa life lalo na pag seryosong part na ng buhay and sobrang thankful ako sa Partner ko ngayon. I love you so much Ajiih!" },
